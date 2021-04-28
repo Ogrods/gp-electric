@@ -59,7 +59,7 @@ const Hero = ({
     >
       <div className="container-sm">
         <div className={innerClasses}>
-          <div className="hero-content">
+          {/* <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               Landing template for <span className="text-color-primary">startups</span>
             </h1>
@@ -78,21 +78,15 @@ const Hero = ({
                 </ButtonGroup>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
+
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/gp-electric/white-copper-outlined-white-tag.png')}
                 alt="Hero"
-                width={896}
-                height={504} />
-            </a>
+                width={650}
+                height={475} />
           </div>
           <Modal
             id="video-modal"
