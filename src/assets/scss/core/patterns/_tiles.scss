@@ -19,7 +19,7 @@
 		&::after {
 			content: '';
 			flex-basis: $tiles-item--width;
-			max-width: $tiles-item--width;
+			// max-width: $tiles-item--width;
 			box-sizing: content-box;
 			padding-left: $tiles-items--padding__mobile / 2;
 			padding-right: $tiles-items--padding__mobile / 2;
