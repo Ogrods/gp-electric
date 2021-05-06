@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
+import { HashLink as Link } from 'react-router-hash-link';
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -111,16 +111,16 @@ const Header = ({
                       'list-reset text-xs',
                       navPosition && `header-nav-${navPosition}`
                     )}>
-                    <li>
+                    {/* <li>
                       <Link to="#0" onClick={closeMenu}>Documentation</Link>
-                    </li>
+                    </li> */}
                   </ul>
                   {!hideSignin &&
                     <ul
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="#contact" className="button button-primary button-wide-mobile button-sm">Contact Us</Link>
                       </li>
                     </ul>}
                 </div>
