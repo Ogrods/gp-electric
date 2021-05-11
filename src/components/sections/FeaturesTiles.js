@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Home services done right',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Your top rated local electricians in Chicago and surrounding areas. From small projects to larger and more complex, we are here to ensure all of our clients receive truly exceptional results.'
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     New Construction
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Our licensed and professional electricians are prepared to take on new residential projects of any size, helping you illuminate every room of the house as well as the exterior.
                     </p>
                 </div>
               </div>
@@ -96,8 +96,7 @@ const FeaturesTiles = ({
                     Remodel
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                  Our electricians can help design a lighting theme for your remodeling project or addition, or help you decide which type of lighting will complement your existing design.                    </p>
                 </div>
               </div>
             </div>
@@ -115,10 +114,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Service
+                    Service and Maintenance
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Our highly skilled service technicians can quickly identify and troubleshoot electrical problems using the latest tools and testing instruments, or simply maintain and upgrade your current system.
                     </p>
                 </div>
               </div>
@@ -140,8 +139,7 @@ const FeaturesTiles = ({
                     Historical Renovation
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                  When undertaking a historic building project, our team takes care to make sure the work we do conforms to applicable building codes and the respective editions of the codes that apply to the project.                     </p>
                 </div>
               </div>
             </div>
