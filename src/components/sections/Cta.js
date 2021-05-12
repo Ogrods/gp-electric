@@ -53,7 +53,7 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              Call for an estimate at (555) 555-5555
+              Call for an estimate at (860) 555-5555
               </h3>
           </div>
           <div className="cta-action">
