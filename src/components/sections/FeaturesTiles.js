@@ -160,7 +160,7 @@ const FeaturesTiles = ({
                     Solar
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur  occaecat cupidatat.
                     </p>
                 </div>
               </div>
@@ -182,7 +182,7 @@ const FeaturesTiles = ({
                     Tax Credits
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur  occaecat cupidatat.
                     </p>
                 </div>
               </div>

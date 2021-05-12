@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Custom Projects',
-    paragraph: ' sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: "For business and residential construction and remodel projects, we power your project from start to finish."
   };
 
   return (
@@ -67,14 +67,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Remodel
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Make your house a home
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  No renovation is complete without reliable, industry-leading electrical installations and top-of-the-line wiring. The certified electricians at Apple Electric know how important your home is, so we work with you from the design phase to putting the finishing touches on the lights and electrical wiring on your home addition, remodel or renovation.                  
+                </p>
               </div>
               <div className={
                 classNames(
@@ -93,14 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Construction
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Build from the ground up
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  We will carefully inspect your home to determine what kind of electrical work and wiring you’re going to need for your construction project, and work with you to design a layout that will best suit your requirements. ensuring your electrical project meets code requirements, safety compliance, and importantly your satisfaction.                 </p>
               </div>
               <div className={
                 classNames(
@@ -119,14 +118,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Service and maintenance
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Stay on the cutting edge
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Like every system in your building, your electrical system needs to be updated in order to keep running smoothly. We offer the latest upgrades and features that will keep your business stylish and efficient. From LED lighting to high-efficiency wiring, our wide selection of upgrades and new product installs will keep you up to date. With better electrical systems in your home or business, you’ll be extending the life of your circuits and wiring.                  </p>
               </div>
               <div className={
                 classNames(
