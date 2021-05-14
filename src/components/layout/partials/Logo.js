@@ -19,7 +19,7 @@ const Logo = ({
     >
       <h1 className="m-0">
           <Image
-            src={require('./../../../assets/images/gp-electric/white-copper-outlined.png')}
+            src={require('./../../../assets/images/gp-electric/white-copper-outlined-logo.png')}
             alt="Logo"
             width={32}
             height={32} />
