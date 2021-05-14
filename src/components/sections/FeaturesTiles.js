@@ -74,8 +74,7 @@ const FeaturesTiles = ({
                     New Construction
                     </h4>
                   <p className="m-0 text-sm">
-                  Our licensed and professional electricians are prepared to take on new residential projects of any size, helping you illuminate every room of the house as well as the exterior.
-                    </p>
+                  Our team of electrical technicians is prepared to take on new residential projects of any size. From apartments and multi-family dwellings to single-family tract developments, GP Electric Co. is your one stop shop for all residential construction electrical needs.                     </p>
                 </div>
               </div>
             </div>
@@ -96,7 +95,8 @@ const FeaturesTiles = ({
                     Remodel
                     </h4>
                   <p className="m-0 text-sm">
-                  Our electricians can help design a lighting theme for your remodeling project or addition, or help you decide which type of lighting will complement your existing design.                    </p>
+                  Our technicians have the experience to redesign the electrical system of your home, or help you decide which type of lighting will complement your existing design. GP Electric Co. will work side by side with you to make your vision become reality. 
+                                    </p>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ const FeaturesTiles = ({
                     Service and Maintenance
                     </h4>
                   <p className="m-0 text-sm">
-                  Our highly skilled service technicians can quickly identify and troubleshoot electrical problems using the latest tools and testing instruments, or simply maintain and upgrade your current system.
+                  Our highly skilled service technicians have the experience to quickly identify and troubleshoot, service, update, and maintain the electrical system in your home using the latest tools and testing instruments.
                     </p>
                 </div>
               </div>
@@ -139,7 +139,8 @@ const FeaturesTiles = ({
                     Historical Renovation
                     </h4>
                   <p className="m-0 text-sm">
-                  When undertaking a historic building project, our team takes care to make sure the work we do conforms to applicable building codes and the respective editions of the codes that apply to the project.                     </p>
+                  Historical renovation is serious work, and we take it just as seriously as you. Our technicians will find solutions to install or alter electrical systems in a manner that preserves the aesthetic integrity of your structure so that it may be enjoyed by generations to come.      
+                  </p>
                 </div>
               </div>
             </div>

@@ -69,7 +69,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">Sam Peschke</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Elgin, IL</a>
                   </span>
                 </div>
               </div>
