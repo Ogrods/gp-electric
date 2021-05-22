@@ -1,8 +1,9 @@
 .cta {
 
 	.section-inner {
-		padding-top: $cta--padding-t__mobile;
+		padding-top: 84px;
 		padding-bottom: $cta--padding-b__mobile;
+		max-height: 190px;
 	}
 }
 
@@ -16,7 +17,7 @@
 	.cta {
 
 		.section-inner {
-			padding-top: $cta--padding-t__desktop;
+			padding-top: 84px;
 			padding-bottom: $cta--padding-b__desktop;
 			
 		}
