@@ -82,7 +82,7 @@ const Testimonial = ({
                   I contacted GP Electric after I got a quote that was out of my budget. GP was much more affordable and did more work. These guys came in, did everything they said they would do. They cleaned up after themselves, they were quick, and efficient. They did a sub panel addition, re-routed outlets, installed light fixtures, and installed a heated tile flooring thermostat. I'm definitively calling them back to do more work on my house. Highly recommend them to anyone in need of electrical services!                      </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Moises</span>
+                  <span className="testimonial-item-name text-color-high">Moises P</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0">Crystal Lake, IL</a>
