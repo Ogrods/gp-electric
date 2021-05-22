@@ -66,7 +66,7 @@ const Testimonial = ({
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Sam Peschke</span>
+                  <span className="testimonial-item-name text-color-high">Sam P</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0">Elgin, IL</a>
@@ -79,14 +79,13 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
+                  I contacted GP Electric after I got a quote that was out of my budget. GP was much more affordable and did more work. These guys came in, did everything they said they would do. They cleaned up after themselves, they were quick, and efficient. They did a sub panel addition, re-routed outlets, installed light fixtures, and installed a heated tile flooring thermostat. I'm definitively calling them back to do more work on my house. Highly recommend them to anyone in need of electrical services!                      </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
+                  <span className="testimonial-item-name text-color-high">Moises</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Crystal Lake, IL</a>
                   </span>
                 </div>
               </div>
@@ -96,14 +95,13 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
+                  I used GP Electric services for recess lights installation in my bedrooms. Fernando arrived on time and he and his partner took only 2.5 hours to install 8 lights. (4 in each room). They worked fast, were clean and did a great job. We had the rooms and the ceilings freshly painted and asked them to be careful. They did not damage anything! My father who is a retired electrician said that if he needs any electrical work done in his house, would hire Fernando! I would definitely recommend him - efficient , clean, and courteous!! His prices are also very reasonable.                      </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
+                  <span className="testimonial-item-name text-color-high">Stef S</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Buffalo Grove, IL</a>
                   </span>
                 </div>
               </div>
