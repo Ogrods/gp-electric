@@ -53,8 +53,9 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              Call for an estimate at (630) 338-7299 <br /> or (815) 404-8817 Si Habla Español y Inglés!
+              Call for an estimate at  <br /> (630) 338-7299 or (815) 404-8817 
               </h3>
+              <p>Si Habla Español y Inglés!</p>
           </div>
           <div className="cta-action">
             <Input id="contact" type="email" label="Email" labelHidden hasIcon="right" placeholder="Your best email">
