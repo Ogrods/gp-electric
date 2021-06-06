@@ -1,5 +1,5 @@
 {
-  "name": "open-react-template",
+  "name": "gp-electric",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
+    "emailjs-com": "^2.6.4",
     "lodash": "^4.17.21",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
@@ -21,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": ""
   },
   "scripts": {
     "dev": "react-scripts start",
@@ -30,7 +31,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
-    },
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
