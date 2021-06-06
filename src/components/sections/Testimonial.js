@@ -95,7 +95,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  I used GP Electric services for recess lights installation in my bedrooms. Fernando arrived on time and he and his partner took only 2.5 hours to install 8 lights. (4 in each room). They worked fast, were clean and did a great job. We had the rooms and the ceilings freshly painted and asked them to be careful. They did not damage anything! My father who is a retired electrician said that if he needs any electrical work done in his house, would hire Fernando! I would definitely recommend him - efficient , clean, and courteous!! His prices are also very reasonable.                      </p>
+                  I used GP Electric services for recess lights installation in my bedrooms. Fernando arrived on time and he and his partner took only 2.5 hours to install 8 lights (4 in each room). They worked fast, were clean and did a great job. We had the rooms and the ceilings freshly painted and asked them to be careful and of course they were. They did not damage anything! My father who is a retired electrician said that if he needs any electrical work done in his house, would hire Fernando! I would definitely recommend him - efficient , clean, and courteous!! His prices are also very reasonable.                      </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Stef S</span>
